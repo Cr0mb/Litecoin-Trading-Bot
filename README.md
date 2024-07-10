@@ -10,7 +10,7 @@ It interacts with real cryptocurrency exchanges (like Binance) and involves fina
 
 Use it at your own risk. Ensure to thoroughly understand and test the script in a simulated environment before using it with real funds. 
 
-The author has not tested this script with real funds or Litecoins.
+The author, (me xD) has not tested this script with real funds or Litecoins.
 
 
 ## Features
