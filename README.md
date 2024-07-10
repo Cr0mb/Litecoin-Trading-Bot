@@ -42,5 +42,6 @@ pip install python-binance cryptography
 > Modify parameters like symbol, quantity, buy_threshold, sell_threshold, wait_period_hours, and stop_loss_percent to suit your trading strategy.
 
 
-* Binance API Documentation *
+Binance API Documentation
+
 https://binance-docs.github.io/apidocs/spot/en/
